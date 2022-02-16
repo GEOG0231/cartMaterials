@@ -28,7 +28,7 @@ Here is an example of a National Park Service brochure.
 
 ![Unigrid example](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate1.jpg)  
 
-What do you think guides this **map image**, or the arrangement of elements on the brochure?  
+What do you think guides the arrangement of elements on the brochure?  
 
 [_Vignelli's unigrid_](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate2.jpg)
 
@@ -44,7 +44,8 @@ What do you think guides this **map image**, or the arrangement of elements on t
 
 Download the [unigrid .pdf](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate2.pdf) from the Harper's Ferry site and open it in Adobe Illustrator.  
 
-1. Overview of AI layout      
-2. Rulers and their units  
+1. Overview of AI workspace      
+2. Rulers and units  
 3. Guides and layers    
-4. 
+4. Grid and snapping   
+5. Align tools  

@@ -42,7 +42,7 @@ What do you think guides the arrangement of elements on the brochure?
 
 ### AI layout methods
 
-Download the [unigrid .pdf](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate2.pdf) from the Harper's Ferry site and open it in Adobe Illustrator.  
+Download the [unigrid .pdf](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate3.pdf) from the Harper's Ferry site and open it in Adobe Illustrator.  
 
 1. Overview of AI workspace      
 2. Rulers and units  

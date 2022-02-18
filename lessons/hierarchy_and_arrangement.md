@@ -30,7 +30,7 @@ Here is an example of a National Park Service brochure.
 
 What do you think guides the arrangement of elements on the brochure?  
 
-[_Vignelli's unigrid_](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate2.jpg)
+[_Vignelli's unigrid_](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/index.htm)
 
 [Brief history of the unigrid](https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm)  
 

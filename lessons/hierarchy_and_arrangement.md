@@ -4,8 +4,7 @@
 
 1. [Key terms](#key-terms)   
 2. [Map crits](#map-crits)    
-3. [Unigrid system](#unigrid)   
-4. [Layout methods in AI](#ai-layout-methods)     
+3. [Unigrid system](#unigrid)      
 
 ### Key terms  
 
@@ -39,13 +38,3 @@ What do you think guides the arrangement of elements on the brochure?
 [Massimo Vignelli](https://en.wikipedia.org/wiki/Massimo_Vignelli)  
 
 [Web application: uniweb](http://www.designculture.it/insight/uniweb.html)
-
-### AI layout methods
-
-Download the [unigrid .pdf](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/images/plate3.pdf) from the Harper's Ferry site and open it in Adobe Illustrator.  
-
-1. Overview of AI workspace      
-2. Rulers and units  
-3. Guides and layers    
-4. Grid and snapping   
-5. Align tools  

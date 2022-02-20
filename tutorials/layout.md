@@ -2,9 +2,9 @@
 
 This tutorial shows you how to use Adobe InDesign to plan your map layouts. As a model, we will use the National Park Service unigrid described in the [Typographic Standards](http://public.gettysburg.edu/~jrudy/type-standards.pdf) published by the Harper's Ferry Center. We will study these standards closely in a couple of weeks when we discuss typography, but for now please review the following pages that relate to layout design:  
 
-- Page 6: <span style="color:FireBrick"> The grid </span>   
-- Page 14: <span style="color:FireBrick">Low-profile layout </span>  
-- Page 9: <span style="color:FireBrick"> Thumbnails </span>
+- 6: _The grid_  
+- 14: _Low-profile layout_
+- 9: _Thumbnails_
 
 ### Playlist  
 

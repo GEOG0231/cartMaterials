@@ -1,18 +1,22 @@
-## Make unigrid with InDesign  
+## Make a grid with InDesign  
 
-This tutorial shows you how to use Adobe InDesign to plan your map layouts. As a model, we will use the National Park Service unigrid described in the [Typographic Standards](http://public.gettysburg.edu/~jrudy/type-standards.pdf) published by the Harper's Ferry Center. We will study these standards closely in a couple of weeks when we discuss typography, but for now please review the following pages that relate to layout design:  
+This tutorial shows you how to use Adobe InDesign to plan your map layouts with a grid. As a model, we will use the National Park Service unigrid described in the [Typographic Standards](http://public.gettysburg.edu/~jrudy/type-standards.pdf) published by the Harper's Ferry Center. We will study these standards closely in a couple of weeks when we discuss typography, but for now please review the following pages that relate to layout design:  
 
-- 6: _The grid_  
-- 14: _Low-profile layout_
-- 9: _Thumbnails_
+- Page 6: The grid  
+- Page 14: Low-profile layout
+- Page 9: Thumbnails
 
 ### Playlist  
 
 [Layout with InDesign (9 videos)](https://youtube.com/playlist?list=PLdXGsLVpvp2paUuUbZ9LhW_FDBFxtcGOI)
 
+### Video Notes  
+
+_Please note: I write out these notes to plan the videos before I record them. I include them here to serve as an index to the video content._   
+
 #### Goal: unigrid layout        
 
-_Quick look at the result from this tutorial._
+- Quick look at the result  
 
 #### Intro to InDesign  
 

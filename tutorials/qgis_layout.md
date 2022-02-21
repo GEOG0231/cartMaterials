@@ -16,6 +16,19 @@ Please work through this playlist after you have [made a grid with InDesign](lay
 
 [Playlist (13 videos)](https://youtube.com/playlist?list=PLdXGsLVpvp2rYyf4o4IE3WbZJOOJMoI8_)   
 
+## Vocabulary  
+
+- RF (Representative fraction)
+- Large scale versus small scale map  
+- CRS (Coordinate reference system)    
+- Projection    
+- Web Mercator  
+- 1:1 scale versus 1:1 display  
+- YAH maps (you are here)  
+- Marginalia     
+
+## Video notes  
+
 ### Goal
 
 Quick overview of end products from this tutorial.  

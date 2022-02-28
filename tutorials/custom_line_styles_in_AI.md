@@ -4,6 +4,17 @@ This tutorial shows you how to make custom styles in Adobe Illustrator for carto
 
 Part 1 aims to be introductory, so we will just be drawing loosely on scratch paper. In a forthcoming installment, we will take a slightly more formal approach and develop our styles in a map taxonomy/style sheet that we then apply to our mapped geography.      
 
+## Warm up  
+
+Please open the [webpage](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) that shows the MonoCarto 2019 winners. Look closely at the linework by the following cartographers:    
+
+* John Nelson and Erich Rainville  
+* Warren Davison  
+* Jakob Listabarth  
+* Sarah Bell  
+
+Please write down the kinds of styles applied to linework that you can recognize on each map.
+
 ## Playlist  
 
 [Intro to path styles with AI (12 videos)](https://www.youtube.com/playlist?list=PLdXGsLVpvp2r7YD4E5os-gzXLyeKv7b6C)  

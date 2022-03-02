@@ -1,6 +1,6 @@
 ## Place names and map lettering    
 
-_An introduction to the problem of labeling place names on maps, or what some cartographers call **toponymy**._   
+_An introduction to problems of representing place names on maps and the broader subject of **toponymy**._   
 
 ### A traditional map dichotomy   
 

@@ -89,7 +89,11 @@ _Gordon Day (1981). Place-Names in the Champlain Valley_
 
 He does not document any place-names in the town of Middlebury, other than the main river that runs through it. And for this feature he offers multiple names (_onegigwizibo_ for 'Otter River' and both _bikog:tegw_ and _Pecunktuk_ for 'Crooked River'). Surely, indigenous people had names for other places in Middlebury, names for places that we have names for today (Chipman Hill, Middlebury River, the Middlebury Swamp, etc) and names for places that we may no longer recognize today (family hunting territories, family gardens, seasonal camps, etc).  
 
-For Middlebury and much of Vermont, we do not know these names at local scales. As a result, we can not include them on maps unless we can figure out ways to learn them now. Until then, we can only look at good examples of maps that show indigenous place-names for inspiration.   
+For Middlebury and much of Vermont, we do not know these names at local scales. As a result, we can not include them on maps unless we can figure out ways to learn them now. When we do not have the time or resources to do this research, we can at least include a land acknowledgement as part of our documentation of sources.  
+
+> When you make a map of occupied land, please include a land acknowledgement that reports the identify of the indigenous people and how they were displaced from their lands. ([_for example_](https://jhowarth.users.earthengine.app/view/conservation-atlas-middlebury-vt))   
+
+We can also look at good examples of maps that show indigenous place-names for inspiration.   
 
 ![Aotearoa](https://www.andrewdc.co.nz/wp-content/uploads/2018/03/NZ-TeReoMaori-Map-Web.jpg)  
 

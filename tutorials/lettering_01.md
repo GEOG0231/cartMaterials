@@ -1,4 +1,4 @@
-## 05A Map lettering (1): working with type in AI  
+## 05A Map lettering (1): Working with type in AI  
 
 This tutorial introduces you to tools and methods for working with type in Adobe Illustrator. Using a scratch artboard, the tutorial guides you through different types (or kinds) of type objects used by AI and then shows you how to change visual variables of type, how to place type along a line, and how to improve legibility of type through halos and knock outs.  
 

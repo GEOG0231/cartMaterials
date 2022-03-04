@@ -127,7 +127,7 @@ The first task of map lettering is to develop a type hierarchy. This involves:
 
     * what features are similar to each other and form families?  
 
-    * what orders or distinguishes features within a family (is there an intellectual hierarchy)?   
+    * what determines the order of features within a family (is there a hierarchy)?   
 
 3. Identify the intellectual hierarchy of features and labels:  
 
@@ -136,6 +136,12 @@ The first task of map lettering is to develop a type hierarchy. This involves:
     * what labels should be legible but without drawing too many attention?  
 
 4. Choose type variables to visually convey the organization and visual hierarchy of your labels.  
+
+    * Use ordinal variables to convey hierarchy (caps, size, weight, value).
+
+    * Use italics for water features and regular form for land.  
+
+    * Show family groups through a shared typeface and motif.  
 
 _To get a sense of type variables, let us look at [Adobe fonts](https://fonts.adobe.com/fonts) and [Google fonts](https://fonts.google.com/)._  
 

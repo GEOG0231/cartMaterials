@@ -4,7 +4,7 @@ Our goal today is to review principles for positioning names on maps as describe
 
 ### Imhof's general principles  
 
-![Imhof general principles](images/Imhof-1975-principles.jpg)  
+[Imhof general principles](images/Imhof-1975-principles.jpg)  
 
 ### Quality assessments      
 

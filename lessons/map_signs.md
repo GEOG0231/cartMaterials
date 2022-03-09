@@ -1,5 +1,7 @@
 ## Map signs      
 
+Maps represent attributes and relationships of spatial locations with graphical signs. Today we briefly review a few concepts from semiotics about different kinds of signs and how they work on maps. We explore icons, indexes, and symbols that are associated with point, line, and areal geometries. We then examine a few resources for making and borrowing map signs. As a post script, we discuss the last phase of the monochrome map project, including strategies for choosing styles to apply to your map and fostering a social environment for feedback during your creative process.       
+
 ### Semiotics 101  
 
 Semiotics deals with the study of **signs** employed for representation. For cartography, I think it is helpful to review some of basic concepts of semiotics, not in an effort to dress up an artistic craft in academic jargon, but rather in an effort to understand different options for creating and employing signs in your creative work.  

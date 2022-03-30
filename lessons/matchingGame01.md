@@ -56,7 +56,7 @@ Please submit your answers through [this form](https://forms.gle/AxGTkXB4EX5ADfk
 
 [8]: https://www.davidrumsey.com/luna/servlet/s/0824v0  
 
-[9]: https://interactivity.partica.online/NatGeoMaps/mapviewer.html?mapName=NGM_2016_05_Map_1  
+[9]: https://interactivity.partica.online/NatGeoMaps/mapviewer.html?mapName=1979_08_Bird%20Migration%20in%20Americas_side%202
 
 [10]: https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart#/media/File:Micronesian_navigational_chart.jpg  
 

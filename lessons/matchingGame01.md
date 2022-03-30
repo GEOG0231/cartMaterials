@@ -24,7 +24,7 @@ Please submit your answers through [this form](https://forms.gle/AxGTkXB4EX5ADfk
 
 ### Table 2  
 
-| A | TITLE | SOURCE | EDITORS |
+|  | TITLE | SOURCE | EDITORS |
 | :---: | :--- | :--- | :--- |
 | __A__ | Yellowstone Volcano| _Atlas of Yellowstone_ (2012: 98) | Marcus, Meachum, Rodman, Steingisser |  
 | __B__ | 400 Years and 500 Evictions | _Infinite City_ (2010: 115-117) | Solnit |

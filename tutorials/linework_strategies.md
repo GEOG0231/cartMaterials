@@ -2,11 +2,11 @@
 
 A quick review of common cart problems and how to fix them.      
 
-Please download [this toy problem](https://drive.google.com/file/d/1GDYWFThFmB4Yfen1u-G3M-qHS9lyfeua/view?usp=sharing) and open it with Illustrator.
+Please download [this toy problem](https://drive.google.com/file/d/1FcHYi7dzo0c71S89Cful04MsOE7iwNWB/view?usp=sharing) and open it with Illustrator.
 
 ### Problems with simply fixes  
 
-1. Visual association of label and symbol  
+1. Visual association of geometry and label    
 2. Line art versus polygon data  
     - overlapping lines  
     - label placement  

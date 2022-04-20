@@ -4,7 +4,7 @@ A quick review of common cart problems and how to fix them.
 
 Please download [this toy problem](https://drive.google.com/file/d/1FcHYi7dzo0c71S89Cful04MsOE7iwNWB/view?usp=sharing) and open it with Illustrator.
 
-### Problems with simply fixes  
+### Problems with simple fixes  
 
 1. Visual association of geometry and label    
 2. Line art versus polygon data  
@@ -13,7 +13,7 @@ Please download [this toy problem](https://drive.google.com/file/d/1FcHYi7dzo0c7
 3. Inner glow and different feature sizes
 4. Spell checker   
 
-### Problems with complicating fixes (clipping masks)  
+### Problems with complicated fixes (clipping masks)
 
 _Clipping masks make it frustrating, difficult, or impossible to edit and work with your layers, so these two workflows should be the last things that you do in Illustrator._  
 

@@ -146,10 +146,10 @@ Here is the general equation to scale the pixel values of an image so that they 
 _To give strongest contrast to highest elevations and progressively reduce contrast with decreasing elevation._  
 
 1. Get organized: Create a group layer, name it 'aerial perspective' or something equivalent. (See [organize layers][organizeLayers]).
-2. Move shaded base layer into folder (you will need to move both the shade layer and the levels adjustment layer).  
-3. Make a copy of the layer and the adjustment layer: click, option-drag (mac) or alt-drag (pc).  
-4. Rename layer 'aerial perspective' or something equivalent.
-5. Change the levels adjustment on the aerial perspective layer so that the output value min is a bit darker and the output value max is white (255).  
+2. Move shaded base layer into folder.  
+3. Make a copy of the layer: click, option-drag (mac) or alt-drag (pc).  
+4. Rename layer 'AP effect' or something equivalent.
+5. Change the levels adjustment on the AP effect layer so that the output value min is a bit darker and the output value max is white (255).  
 6. Apply a mask to the aerial perspective image: click the black circle on white icon at bottom of layers panel.
 7. Copy the DEM:
     1. Click on the DEM.
@@ -158,7 +158,7 @@ _To give strongest contrast to highest elevations and progressively reduce contr
     4. Paste the copied image: command-v (mac) or ctrl-v (pc).
     5. Click on another layer to deactivate mask panel.  
 
-_To fine tune, you can use levels to stretch enhance the DEM (to increase mask on lower elevations). You can also experiment with different blending modes between aerial perspective layer and base shade layer.     
+_To fine tune, you can use levels to stretch enhance the DEM (to increase mask on lower elevations). You can also experiment with different blending modes between aerial perspective layer and base shade layer._     
 
 #### Scale image for Uint16  
 

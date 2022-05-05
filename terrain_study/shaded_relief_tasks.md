@@ -9,7 +9,7 @@
 | Remove detail from hillshades | | [Apply median filter][medianFilter] |  
 | Illuminate from multiple angles | | [Blend hillshades][blendHillshades] |  
 | Make shaded base layer | | [Apply level adjustment layer][adjustLevels]<br><br>[Make composite layer][makeComposite] |   
-| Apply aerial perspective | | [Simple aerial perspective](makeAP) |  
+| Apply aerial perspective | | [Simple aerial perspective][makeAP] |  
 | Save graystack | | |
 | Make color stack | |    
 | Make hypsometric tints | | Apply color gradient map<br><br>Customize color gradient |  
@@ -181,7 +181,7 @@ In QGIS:
 [convertUint16]: #convert-image-data-type-to-uint16  
 [dataTypes]: #data-types  
 [loadStack]: #load-files-into-stack  
-[makeAP]: #simple-aerial-perspective  
+[makeAP]: #simple-aerial-perspective   
 [makeSlope]: #make-slope-layer-from-DEM  
 [makeComposite]: #make-composite-layer  
 [medianFilter]: #apply-median-filter    

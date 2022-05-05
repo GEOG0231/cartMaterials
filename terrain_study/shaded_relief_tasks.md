@@ -12,7 +12,7 @@
 | Apply aerial perspective | | [Simple aerial perspective][makeAP] |  
 | Transition from shading to tinting | | [Make color stack][makeColor]|    
 | Make hypsometric tints | | Apply custom color gradient map |  
-| Apply shading to hypsometric tint | | Add composite layer from gray stack to color stack<br><br>Change blending mode. |  
+| Apply shading to hypsometric tint | | Blend luminosity |  
 | Tint shadows | | Create shadow mask.<br><br>Add Hue/Saturation adjustment layer.<br><br>Apply shadow mask to adjustment layer. |  
 
 

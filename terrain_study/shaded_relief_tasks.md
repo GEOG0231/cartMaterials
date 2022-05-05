@@ -36,13 +36,13 @@ The table below lists the data type and the minimum and maximum integers that ca
 
 _To adjust the contrast of a layer._  
 
-1. Click on the layer that you want to change.  
+1. Click on the layer or folder that you want to change.  
 2. Click on the adjustment button (half-moon circle, bottom center of layers panel)> Levels.
-3. To make sure you only apply the adjustment to the layer directly underneath the adjustment layer, hold option key (mac) or alt key (pc) and hover the cursor in between the adjustment layer and the layer you want to effect > click once.  
-    - If you are successful here, a little arrow show appear on the adjusment level pointing down.  
-4. Adjust the numbers directly below the histogram to change the data range (the min and max data value to distinguish with the grayscale ramp).
-5. Adjust the output levels to change the colors used to display the min and max data values. Increasing the minimum output will reduce the strength of black, while decreasing the maximum output will reduce the strength of white.  
-6. For the base shade layer, the minimum display value should be a more mid-gray and the maximum display value should not be pure white.  
+3. Adjust the numbers directly below the histogram to change the data range (the min and max data value to distinguish with the grayscale ramp).
+4. Adjust the output levels to change the colors used to display the min and max data values. Increasing the minimum output will reduce the strength of black, while decreasing the maximum output will reduce the strength of white.  
+5. For the base shade layer, the minimum display value should be a more mid-gray and the maximum display value should not be pure white.  
+
+_Please note: if you only want to apply the adjustment to the layer directly underneath the adjustment layer, then hold option key (mac) or alt key (pc) and hover the cursor in between the adjustment layer and the layer you want to effect and click once. If you are successful here, a little arrow show appear on the adjustment level pointing down._  
 
 #### Apply median filter  
 

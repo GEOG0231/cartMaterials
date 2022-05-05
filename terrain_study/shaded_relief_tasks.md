@@ -8,7 +8,7 @@
 | Create a grayscale stack file | |[Load files into stack][loadStack]<br><br>[Organize layers][organizeLayers] |
 | Remove detail from hillshades | | [Apply median filter][medianFilter] |  
 | Illuminate from multiple angles | | [Blend hillshades][blendHillshades] |  
-| Make shaded base layer | | [Apply level adjustment layer][adjustLevels]<br><br>[Make composite layer][makeComposite] |   
+| Make shaded base layer | | [Make composite layer][makeComposite]<br><br>[Apply level adjustment layer][adjustLevels] |   
 | Apply aerial perspective | | [Simple aerial perspective][makeAP] |  
 | Save graystack | | |
 | Make color stack | |    
@@ -36,7 +36,7 @@ The table below lists the data type and the minimum and maximum integers that ca
 
 _To adjust the contrast of a layer._  
 
-1. Click on the layer or folder that you want to change.  
+1. Click on the layer or group folder that you want to change.  
 2. Click on the adjustment button (half-moon circle, bottom center of layers panel)> Levels.
 3. Adjust the numbers directly below the histogram to change the data range (the min and max data value to distinguish with the grayscale ramp).
 4. Adjust the output levels to change the colors used to display the min and max data values. Increasing the minimum output will reduce the strength of black, while decreasing the maximum output will reduce the strength of white.  
@@ -106,7 +106,7 @@ With Photoshop open:
 
 _To take a snapshot of a stack of layers. This is similar to the idea of 'flattening' a stack, but this method is non-destructive (you do not lose the stack)._
 
-1. In layers panel, click on the top layer of a stack.
+1. In layers panel, click on the top layer of a stack that you would like to composite.
 2. Make the composite layer.  
     - Mac: Shift-Command-Option-E  
     - PC: Shift-Ctrl-Alt-E  

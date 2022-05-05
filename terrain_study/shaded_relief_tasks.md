@@ -8,7 +8,7 @@
 | Create a grayscale stack file | |[Load files into stack][loadStack]<br><br>[Organize layers][organizeLayers] |
 | Remove detail from hillshades | | [Apply median filter][medianFilter] |  
 | Illuminate from multiple angles | | [Blend hillshades][blendHillshades] |  
-| Make shaded base layer | | [Make composite layer][makeComposite]<br><br>[Apply level adjustment layer][adjustLevels] |   
+| Make shaded base layer | | [Apply level adjustment layer][adjustLevels]<br><br>[Make composite layer][makeComposite] |   
 | Apply aerial perspective | | [Simple aerial perspective](makeAP) |  
 | Save graystack | | |
 | Make color stack | |    
@@ -52,10 +52,10 @@ _To remove excessive detail in a hillshade layer._
 2. Convert to smart object:  
     1. Click on layer in layers panel  
     2. Layer> Smart Objects> Convert to smart object  
-    3. Filter> Noise> Median  
-    4. Make sure 'Preview' is checked.
-    5. Adjust Radius (larger radius = more generalized)  
-3. Repeat for other hillshades in your stack.    
+3. Filter> Noise> Median  
+    1. Make sure 'Preview' is checked.
+    2. Adjust Radius (larger radius = more generalized)  
+4. Repeat for other hillshades in your stack.    
 
 #### Blend hillshades  
 

@@ -10,8 +10,7 @@
 | Illuminate from multiple angles | | [Blend hillshades][blendHillshades] |  
 | Make shaded base layer | | [Make composite layer][makeComposite]<br><br>[Apply level adjustment layer][adjustLevels] |   
 | Apply aerial perspective | | [Simple aerial perspective][makeAP] |  
-| Save graystack | | |
-| Make color stack | |    
+| Transition from shading to tinting | | [Make color stack][makeColor]|    
 | Make hypsometric tints | | Apply color gradient map<br><br>Customize color gradient |  
 | Apply shading to hypsometric tint | | Add composite layer from gray stack to color stack<br><br>Change blending mode. |  
 | Tint shadows | | Create shadow mask.<br><br>Add Hue/Saturation adjustment layer.<br><br>Apply shadow mask to adjustment layer. |  
@@ -102,6 +101,15 @@ With Photoshop open:
     2. Two or more hillshades  
     3. Scaled and converted slope  
 
+#### Make color stack  
+
+_I find it helpful to develop shading and tinting in separate files. I find this reduces artifacts that occur when levels and masks (that depend on grayscale) are converted to color._  
+
+1. Save gray stack.  
+2. Open DEM as a new file.
+3. Change mode to color: Image> Mode> CMYK (print) or RGB (digital).  
+4. Save file: Name 'color_stack' or something equivalent.  
+
 #### Make composite layer  
 
 _To take a snapshot of a stack of layers. This is similar to the idea of 'flattening' a stack, but this method is non-destructive (you do not lose the stack)._
@@ -182,6 +190,7 @@ In QGIS:
 [dataTypes]: #data-types  
 [loadStack]: #load-files-into-stack  
 [makeAP]: #simple-aerial-perspective   
+[makeColor]: #make-color-stack  
 [makeSlope]: #make-slope-layer-from-DEM  
 [makeComposite]: #make-composite-layer  
 [medianFilter]: #apply-median-filter    

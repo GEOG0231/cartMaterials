@@ -13,7 +13,7 @@
 | Transition from shading to tinting | | [Make color stack][makeColor]|    
 | Make hypsometric tints | | Apply custom color gradient map |  
 | Apply shading to hypsometric tint | | Blend luminosity |  
-| Tint shadows | | Create shadow mask.<br><br>Add Hue/Saturation adjustment layer.<br><br>Apply shadow mask to adjustment layer. |  
+| Tint shadows | | Adjust hue and saturation with masks |  
 
 
 ### Key terms
